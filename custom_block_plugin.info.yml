@@ -1,0 +1,8 @@
+name: "Custom Block Plugin"
+description: "Custom Block Plugin For Latest Article"
+version: 8.x;
+core: 8.x
+package: Custom
+type: module
+dependencies:
+  - block
